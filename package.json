@@ -98,6 +98,8 @@
     "format": "prettier ./src --write",
     "test": "jest --verbose",
     "cypress": "cypress open",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
