@@ -1,0 +1,7 @@
+node_modules
+.env
+.idea
+dist
+cypress/
+src/services/slices
+src/services/store.test.ts
